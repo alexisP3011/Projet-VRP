@@ -21,11 +21,11 @@ Afin de résoudre au mieux ce problème de tournées de livraison, notre équipe
 
 # Installation et setup 
 
-Afin d'exécuter l'ensemble des programmes, vous devez vous assurer d'avoir toutes les bibliothèques utilisées et de modifier certains cheminn d'accès. Bien évidemment, tous les programmes Python utilise Python 3.
+Afin d'exécuter l'ensemble des programmes, vous devez vous assurer d'avoir toutes les bibliothèques utilisées et de modifier certains chemin d'accès. Bien évidemment, tous les programmes Python utilise Python 3.
 
 # Différentes méthodes de résolution 
 
-1. Programmation linéaire
-A. Résolution Pulp avec et sans contrainte de temps <br>
+1. Programmation linéaire <br>
+  A. Résolution Pulp avec et sans contrainte de temps <br>
 2. Recherche tabou
 3. Recuit simulé
