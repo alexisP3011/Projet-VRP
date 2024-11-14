@@ -9,19 +9,20 @@
 <font color="red"> <div align="left"> <strong> Kao-Duong NGUYEN </font> </div> </strong>
 <font color="red"> <div align="left"> <strong> Alexis PEIFFER </font> </div> </strong>
 
+
 # Rappel du contexte 
 
 L'ADEME a lancé un appel à manifestation d’intérêt pour promouvoir des solutions de mobilité innovantes adaptées à divers territoires. CesiCDP, déjà active dans le domaine de la mobilité multimodale, souhaite y répondre. En collaboration avec plusieurs partenaires, elle a réalisé des études sur les nouvelles technologies de transport, qui soulèvent des défis en termes d'optimisation des ressources, mais représentent un enjeu majeur pour l’avenir, notamment dans des secteurs comme la livraison et le traitement des déchets.
 
 CesiCDP a formé une équipe de quatre ou cinq personnes pour proposer un projet axé sur l'optimisation des tournées de livraison, avec l’objectif d’obtenir des financements. L’étude portera sur un problème algorithmique visant à minimiser la durée totale des tournées en tenant compte du trafic routier prévu à différents moments de la journée. Toutefois, l’équipe hésite à ajouter des contraintes supplémentaires pour rendre l'étude plus complexe et réaliste, ce qui pourrait attirer l’attention de l'ADEME.
 
-Afin de résoudre au mieux ce problème de tournées de livraison, notre équipe à travailler sur différentes méthodes de résolution : Programmation linéaire (Pulp) et métaheuristiques (recherche tabou et recuit simulé).
+Afin de résoudre au mieux ce problème de tournées de livraison, notre équipe a travaillé sur différentes méthodes de résolution : Programmation linéaire (Pulp) et métaheuristiques (recherche tabou et recuit simulé).
 
 
 
-# Installation et setup 
+# Installations et setup 
 
-Afin d'exécuter l'ensemble des programmes, vous devez vous assurer d'avoir toutes les bibliothèques utilisées et de modifier certains chemin d'accès. Bien évidemment, tous les programmes Python utilise Python 3.
+Afin d'exécuter l'ensemble des programmes, vous devez vous assurer d'avoir toutes les bibliothèques utilisées et de modifier certain chemin d'accès. Bien évidemment, tous les programmes Python utilisent Python 3.
 
 # Différentes méthodes de résolution 
 
