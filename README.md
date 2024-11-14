@@ -28,5 +28,7 @@ Afin d'exécuter l'ensemble des programmes, vous devez vous assurer d'avoir tout
 
 1. Programmation linéaire <br>
   A. Résolution avec la bibliothèque Pulp avec et sans contrainte de temps <br>
-2. Recherche tabou
-3. Recuit simulé
+
+2. Métaheuristiques<br>
+  A.Recherche tabou<br>
+  B.Recuit simulé<br>
