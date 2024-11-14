@@ -1,1 +1,7 @@
+To meet the requirements of our delivery route optimization project, we are using linear programming with the PuLP library in Python to model and solve the problem while adhering to multiple constraints. The problem is formulated to optimize truck routes by minimizing the distance traveled or maximizing efficiency based on various parameters.
 
+In this context, we have developed two distinct models:
+
+Model with Time Constraints: This model incorporates time windows for each delivery city, allowing adherence to specific schedules for each stop. In addition to distances, the time variable is introduced in calculating the optimal route. This involves adding time constraints for each stage of the journey, considering the total time for each route. This model is relevant for scenarios where deliveries need to be completed within specific time frames.
+
+Model without Time Constraints: In this simplified version, the objective focuses solely on route optimization in terms of distance or cost, without considering time windows. This model is suitable when deliveries do not have specific time constraints, and the priority is to reduce transportation costs.
