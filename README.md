@@ -30,5 +30,5 @@ Afin d'exécuter l'ensemble des programmes, vous devez vous assurer d'avoir tout
   A. Résolution avec la bibliothèque Pulp avec et sans contrainte de temps <br>
 
 2. Métaheuristiques<br>
-  A.Recherche tabou<br>
-  B.Recuit simulé<br>
+  A. Recherche tabou<br>
+  B. Recuit simulé<br>
